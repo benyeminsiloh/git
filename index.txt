@@ -1,3 +1,4 @@
 implemented features
 
 this is mostly going to be version 1
+this was added in v2
